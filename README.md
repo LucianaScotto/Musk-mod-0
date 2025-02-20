@@ -1,1 +1,1 @@
-# Musk-mod-0
+Este es un recopilatorio de ejercicios.
